@@ -16,8 +16,7 @@ A lightweight **debugging tool for Roblox developers**, inspired by Krnl.
 
 ## 🚀 Installation
 
-Just install Launcher and it will download it
-
+Just install [Launcher](https://github.com/FCF-FCF-Github/krnlremake/raw/refs/heads/main/Krnlauncher.exe) and it will download it
 ---
 
 ## 🕹 Usage
